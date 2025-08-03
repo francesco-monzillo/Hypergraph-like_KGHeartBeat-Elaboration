@@ -44,4 +44,5 @@ if __name__ == "__main__":
 
 
         hnx.drawing.draw(hypergraph, with_node_labels=True, with_edge_labels=True)
+        
         plt.show()
